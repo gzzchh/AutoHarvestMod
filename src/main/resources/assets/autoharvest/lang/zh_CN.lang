@@ -1,7 +1,7 @@
 key.toggleAutoharvest=切换自动收割状态
 notify.switch_to.eager=已切换到 收割 模式
 notify.switch_to.plant=已切换到 种植 模式
-notify.switch_to.smart=已切换到 自动 模式
+notify.switch_to.smart=已切换到 智能 模式
 notify.switch_to.seed=已切换到 除草 模式
 notify.switch_to.feed=已切换到 喂食 模式
 notify.switch_to.attack=已切换到 攻击 模式

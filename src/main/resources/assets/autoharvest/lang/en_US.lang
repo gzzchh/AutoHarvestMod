@@ -1,7 +1,7 @@
 key.toggleAutoharvest=Switch AutoHarvest Mode
 notify.switch_to.eager=Switch to: Harvest
 notify.switch_to.plant=Switch to: Plant
-notify.switch_to.smart=Switch to: Auto
+notify.switch_to.smart=Switch to: Smart
 notify.switch_to.seed=Switch to: Seed
 notify.switch_to.feed=Switch to: Feed
 notify.switch_to.attack=Switch to: Attack
