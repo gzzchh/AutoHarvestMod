@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoHarvestMod.iml" filepath="$PROJECT_DIR$/AutoHarvestMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoHarvestMod.api.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoHarvestMod.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoHarvestMod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoHarvestMod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoHarvestMod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoHarvestMod.test.iml" />
+    </modules>
+  </component>
+</project>
