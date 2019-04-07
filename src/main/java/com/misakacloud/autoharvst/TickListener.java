@@ -295,7 +295,6 @@ public class TickListener {
     }
 
     private void smartTick(){
-
         harvestTick();
         plantTick();
     }
